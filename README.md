@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<img src="https://metrics.lecoq.io/tommyliu33?template=classic&config.timezone=America%2FLos_Angeles">
+<img src="https://metrics.lecoq.io/toommyliu?template=classic&config.timezone=America%2FLos_Angeles">
 
 #### what i use
 
