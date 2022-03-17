@@ -9,5 +9,7 @@
 
 #### what im learning
 * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" height="20"> Rust
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="20"> C++
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="20"> Java
 
 
